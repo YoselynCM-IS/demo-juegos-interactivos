@@ -33,7 +33,7 @@ body{
 #btnAction {
     margin-top:1rem;
     font-family: var(--fuenteMontAlt);
-    background-color: var(--rojoObscuro);
+    background-color: var(--amarilloF);
     width: 200px;
     height: 180px;
     color:var(--blanco);
@@ -51,9 +51,9 @@ body{
     font-style: oblique;
 }
 #btnAction:hover {
-    color:var(--rojoObscuro);
+    color:var(--amarilloF);
     background-color: var(--blanco);
-    border-color: var(--rojoObscuro);
+    border-color: var(--amarilloF);
 }
 #logoMajestic {
     width: 90px;
